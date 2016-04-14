@@ -1,0 +1,6 @@
+[template]
+src = "plugins.txt.tmpl"
+dest = "/usr/local/etc/jenkins/plugins.txt"
+keys = [
+  "/self/service/metadata/plugins"
+]
