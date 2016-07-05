@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t weahead/jenkins-conf:1.0.0 .
+docker build -t weahead/jenkins-conf:2.0.0 .
