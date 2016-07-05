@@ -1,0 +1,7 @@
+[template]
+src = "privkey.tmpl"
+dest = "/usr/local/etc/jenkins/priv.key"
+keys= [
+  "/self/service/metadata/privkey"
+]
+
